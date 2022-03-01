@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "109609086120",
+    "project_id": "hindi-tech-updates",
+    "storage_bucket": "hindi-tech-updates.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109609086120:android:ab4e0031ce848de314e69d",
+        "android_client_info": {
+          "package_name": "com.example.hinditechupdates"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109609086120-5q3bngd4onrcj6j12ej586njnvug7fpe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHlJEj22dYGFyqks3K_-tOEe6vJPcVfGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109609086120-5q3bngd4onrcj6j12ej586njnvug7fpe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
