@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
 
         new AppUpdater(this)
                 .setUpdateFrom(UpdateFrom.JSON)
-                .setUpdateJSON("https://raw.githubusercontent.com/javiersantos/AppUpdater/master/app/update-changelog.json")
+                .setUpdateJSON("https://raw.githubusercontent.com/Hritick814/HindiTechUpdates/master/updates/update-changelog.json")
                 .start();
 
         if (!CheckNetwork.isInternetAvailable(this)) //returns true if internet available
